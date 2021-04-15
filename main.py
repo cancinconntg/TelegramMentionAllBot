@@ -1,5 +1,4 @@
 from telegram.ext import Updater, CommandHandler
-from utilities import utilities
 
 import asyncio
 
